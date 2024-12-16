@@ -1,7 +1,6 @@
 # CRUD con un archivo CSV
 
-Este proyecto implementa un CRUD con un archivo `.csv` y aplica los siguientes patrones de diseño:
+Este proyecto implementa un CRUD con un archivo `.csv`.
 
-- DTO
-- DAO
-- Mapper
+## ⚙️Tecnologías 
+- Commons CSV

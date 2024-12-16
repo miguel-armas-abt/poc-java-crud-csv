@@ -7,7 +7,7 @@ import java.util.List;
 
 public class CustomerDAOImpl implements CustomerDAO {
 
-  private final String FILE = "/database/customers.csv";
+  private static final String FILE = "/database/customers.csv";
   private static final char SEPARATOR = ',';
 
   @Override

@@ -9,7 +9,7 @@ public class Application {
 
     CustomerService customerService = new CustomerServiceImpl();
     System.out.println(customerService.findAll());
-    System.out.println(customerService.findByDni("76517368"));
+    System.out.println(customerService.findByDni("77517368"));
   }
 
 }
